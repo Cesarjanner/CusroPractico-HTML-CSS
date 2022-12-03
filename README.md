@@ -1,5 +1,23 @@
-# Curso de git\_&_Github
+# Avoid accidental upload of the Sketch and Figma design files
 
-Este sera el primer proyecto en el que voy a trabajar.
+#####################################################
 
-Agregando mas contenido al \_readme.md
+## Please do not remove lines 5 and 6 - thanks! 🙂
+
+#####################################################
+_.sketch
+_.fig
+
+# Avoid accidental XD upload if you convert the design file
+
+###############################################
+
+## Please do not remove line 12 - thanks! 🙂
+
+###############################################
+\*.xd
+
+# Avoid your project being littered with annoying .DS_Store files!
+
+.DS_Store
+.prettierignore
